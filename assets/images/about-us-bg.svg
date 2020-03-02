@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-name="Layer 1" viewBox="0 0 1920 200">
+  <defs>
+    <linearGradient id="a" x1="-3051.87" x2="-2350.07" y1="2426.25" y2="2426.25" gradientTransform="translate(3051.87 -2326.74)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#82ba38" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#82ba38" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="b" x1="-4269.87" x2="-3568.07" y1="2426.25" y2="2426.25" gradientTransform="matrix(-1 0 0 1 -2349.87 -2326.74)" xlink:href="#a"/>
+  </defs>
+  <path fill="none" stroke="url(#a)" stroke-width="2" d="M1 199h699.8M1 166.46l699.8 18.63M1 134l699.8 37.29M1 101.5l699.8 55.88M1 69l699.8 74.51m0-13.81L1 36.54M1 4l700 111.8M154.16 0L700.8 101.82M287.38 0L700.8 88m0 0v111M678.6 83.3V199M654.3 78.1V199M627.8 72.5V199M598.7 66.3V199m-32-139.5V199M531.1 51.86V199M491.4 43.4V199M447 34v165M396.8 23.3V199M339.5 11.1V199M273.8 0v199M197.5 0v199M107.9 0v199M1 0v199"/>
+  <path fill="none" stroke="url(#b)" stroke-width="2" d="M1219.2 199H1919m-699.8-13.91l699.8-18.63m-699.8 4.83L1919 134m-699.8 23.38L1919 101.5m-699.8 42L1919 69m0-32.43l-699.8 93.13m-.2-13.87L1919 4m-699.8 97.82L1765.84 0M1219.2 88l413.42-88M1219.2 199V88m22.2 111V83.3m24.3 115.7V78.1m26.5 120.9V72.5m29.1 126.5V66.3m32 132.7V59.5m35.6 139.5V51.86M1428.6 199V43.4M1473 199V34m50.2 165V23.3m57.3 175.7V11.1m65.7 187.9V0m76.3 199V0m89.6 199V0M1919 199V0"/>
+</svg>

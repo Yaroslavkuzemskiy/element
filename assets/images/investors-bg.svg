@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 200">
+    <defs>
+        <linearGradient id="a" x1="-615.5" x2="-614.83" y1="49.41" y2="48.38" gradientTransform="matrix(1028.57 0 0 130 632987.94 -6209)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#82ba38" stop-opacity="0"/>
+            <stop offset="1" stop-color="#82ba38" stop-opacity=".5"/>
+        </linearGradient>
+        <linearGradient id="b" x1="-614.23" x2="-613.6" y1="48.86" y2="47.89" xlink:href="#a"/>
+    </defs>
+    <path fill="none" stroke="url(#a)" stroke-width="2" d="M57.21 69L0 101.54M114.36 69L0 134m171.5-65L0 166.54M228.64 69L.07 199M285.79 69L57.21 199M342.93 69L114.36 199M400.07 69L171.5 199M457.21 69L228.64 199M514.36 69L285.79 199M571.5 69L342.93 199M628.64 69L400.07 199M685.78 69L457.21 199M742.93 69L514.36 199M800.07 69L571.5 199M.07 69h800M0 95h754.36M0 121h708.64M0 147h662.93M0 173h617.21M0 199h571.5"/>
+    <path fill="none" stroke="url(#b)" stroke-width="2" d="M1348.51 1l-228.57 130M1405.65 1l-228.57 130M1462.8 1l-228.57 130M1519.94 1l-228.57 130M1577.08 1l-228.57 130M1634.23 1l-228.58 130M1691.37 1L1462.8 131M1748.51 1l-228.57 130M1805.65 1l-228.57 130M1862.8 1l-228.57 130M1919.94 1l-228.57 130m228.56-97.5L1748.51 131m171.42-65l-114.28 65M1920 98.47L1862.8 131M1348.51 1h571.43M1302.8 27H1920m-662.92 26H1920m-708.63 26h708.56m-754.28 26H1920m-800.06 26h800"/>
+</svg>

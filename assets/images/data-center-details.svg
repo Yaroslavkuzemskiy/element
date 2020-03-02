@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-name="Layer 1" viewBox="0 0 1920 202">
+  <defs>
+    <linearGradient id="a" x1="1103" x2="1920" y1="-1108.02" y2="-1108.02" gradientTransform="matrix(1 0 0 -1 0 -1008.02)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#82ba38" stop-opacity="0"/>
+      <stop offset="1" stop-color="#82ba38" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="b" x1="2206" x2="3023" y1="-1108.02" y2="-1108.02" gradientTransform="rotate(180 1511.5 -504.01)" xlink:href="#a"/>
+  </defs>
+  <path fill="none" stroke="url(#a)" stroke-width="2" d="M1104 200h815m-815-25l815 14m-815-39l815 28m-815-53l815 42m-815-67l815 56m-815-81l815 70m-815-95l815 84M1104 25l815 98M1104 0l815 112m0 0v88m-23.2-91.2V200m-25-94.6V200m-27-98.3V200m-29-102.3V200m-31.6-106.7V200m-34.4-111.4V200m-37.6-116.6V200M1670 77.8V200m-45.5-128.5V200m-50.3-135.4V200m-56.1-143.1V200m-62.8-151.7V200m-70.9-161.5V200m-80.7-172.6V200m-92.5-185.3V200M1104 0v200" data-name="line 2"/>
+  <path fill="none" stroke="url(#b)" stroke-width="2" d="M1 200h815M1 189l815-14M1 178l815-28M1 167l815-42M1 156l815-56M1 145l815-70M1 134l815-84M1 123l815-98M1 112L816 0M1 200v-88m23.2 88v-91.2m25 91.2v-94.6m27 94.6v-98.3m29 98.3V97.7M136.8 200V93.3M171.2 200V88.6M208.8 200V83.4M250 200V77.8M295.5 200V71.5M345.8 200V64.6M401.9 200V56.9M464.7 200V48.3M535.6 200V38.5M616.3 200V27.4M708.8 200V14.7M816 200V0" data-name="line 2-2"/>
+</svg>

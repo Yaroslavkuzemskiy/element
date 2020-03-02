@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="10">
+  <defs>
+    <path id="a" d="M95 1412l-6 5v-4H55v-2h34v-4z"/>
+    <path id="c" d="M55 1417v-10h40v10z"/>
+    <clipPath id="b">
+      <use xlink:href="#a"/>
+    </clipPath>
+  </defs>
+  <use fill="#fff" transform="matrix(-1 0 0 1 95 -1407)" xlink:href="#a"/>
+  <g clip-path="url(#b)" transform="matrix(-1 0 0 1 95 -1407)">
+    <use fill="#aaa" xlink:href="#c"/>
+  </g>
+</svg>
